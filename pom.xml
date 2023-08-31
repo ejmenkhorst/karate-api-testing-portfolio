@@ -12,6 +12,17 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <karate.version>1.4.0</karate.version>
     </properties>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-junit5 -->
+        <dependency>
+            <groupId>com.intuit.karate</groupId>
+            <artifactId>karate-junit5</artifactId>
+            <version>${karate.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>
