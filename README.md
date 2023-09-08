@@ -12,7 +12,7 @@ The preferred IDE to use is IntelliJ since this also has a native official Karat
 To test the different features we make use of the following different APIs:
 
 - [Car Fleet Management REST API](https://car-fleet-management.herokuapp.com) 
-- [De Oorsprong SOAP API](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL))
+- [De Oorsprong SOAP API](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
 
 ## Learning Resources
 There are several resources if you want to get more familiar with this framework for example:
